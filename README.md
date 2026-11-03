@@ -6,7 +6,7 @@ My solutions to data structures and algorithms problems, written in C++ and orga
 
 | Topic | Solved |
 |---|---|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Hash maps and two pointers | 0 |
 | Binary search | 0 |
@@ -15,7 +15,7 @@ My solutions to data structures and algorithms problems, written in C++ and orga
 | Recursion and backtracking | 0 |
 | Trees | 0 |
 
-**Total solved: 1** (updated regularly)
+**Total solved: 2** (updated regularly)
 
 ## Solutions
 
