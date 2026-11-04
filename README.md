@@ -22,7 +22,7 @@ My solutions to data structures and algorithms problems, written in C++ and orga
 ### Arrays
 | Problem | Approach | Time | Space |
 |---|---|---|---|
-| [Two Sum](arrays/two-sum.cpp) | Brute force, two nested loops | O(n^2) | O(1) |
+| [Two Sum](arrays/two-sum.cpp) | Brute force, then hash map | O(n^2) to O(n) | O(1) to O(n) |
 | [Contains Duplicate](arrays/contains-duplicate.cpp) | Brute force, then hash set | O(n^2) to O(n) | O(1) to O(n) |
 
 ## Repository structure
