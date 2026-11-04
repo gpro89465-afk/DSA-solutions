@@ -28,7 +28,7 @@ My solutions to data structures and algorithms problems, written in C++ and orga
 ## Repository structure
 
 Each topic has its own folder, and each file is one problem:
-
+for eg.
     arrays/
       two-sum.cpp
     strings/
